@@ -1,0 +1,1 @@
+Use HTML, CSS, and vanilla JavaScript. Always prioritize responsive design and clean code structure.
